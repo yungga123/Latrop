@@ -1,0 +1,14 @@
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\bin\Debug\netstandard2.0\Latrop.deps.json
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\bin\Debug\netstandard2.0\Latrop.dll
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\bin\Debug\netstandard2.0\ref\Latrop.dll
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\bin\Debug\netstandard2.0\Latrop.pdb
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\Latrop.csprojAssemblyReference.cache
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\Latrop.AssemblyInfoInputs.cache
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\Latrop.AssemblyInfo.cs
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\Latrop.csproj.CoreCompileInputs.cache
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\Latrop.dll
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\ref\Latrop.dll
+C:\Users\YUNGGA\source\repos\Latrop\Latrop\Latrop\obj\Debug\netstandard2.0\Latrop.pdb
