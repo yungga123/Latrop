@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0qsO4vN6SVKo1k1fDnUPUm0KMYhKxjdViNk+X4zWBYUqmPDujladbiHlDTMzIGeFdT0kwBVpc6sxGwFC2tCQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YUNGGA\\source\\repos\\Latrop\\Latrop\\Latrop.iOS\\Latrop.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YUNGGA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
